@@ -28,9 +28,11 @@ The problem of QtCreator is that it's not extensible. Although it has some kind 
 
 ## Comments on IDEs
 
-I do not choose IDE as a major component of my working environment. But I use IDEs to accomplish certain development tasks. This may seem paradoxical but is justified. I make my choice on a practical manner. Some tasks are better handled by IDEs, for example, GUI applications in QT, debugging QT applications, etc. By I **do not** try to expert on that. I merely use the default configuration, the default plugin set. The IDE itself is efficient enough on the task it focused on, So I don't take the troule to make it more efficient. 
+I do not choose IDE as a major component of my working environment. But I use IDEs to accomplish certain development tasks. This may seem paradoxical but is justified. I make my choice on a practical manner. Some tasks are better handled by IDEs, for example, GUI applications in QT, debugging QT applications, etc. By I **do not** try to expert on that. I merely use the default configuration, the default plugin set. The IDE itself is efficient enough on the task it focused on, So I don't take the trouble to make it more efficient.
 
+# My choice of Editors
 
+I choose vim as my major editor and considering use Atom for a modern GUI-based editor. 
 
 
 
