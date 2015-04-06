@@ -1,18 +1,7 @@
 = How Do I Create My Working Environment
 
-Almost everyone has his/her own way of configuring the working environment. I
-am not an exception. However, this is a painful task which requires a lot of
-search and research. You don't simply download some scripts and then get it
-done. In my case, I have to deal with 2 laptops, 1 workstation and several
-cluster systems. I use [vim](http://www.vim.org) a lot and watching the
-progress of [Atom](http://atom.io) editor. I use python regularly and
-programming mainly in C++. I install the newest
-[Fedora](http://www.fedoraproject.org) on my laptop and they install old RHEL
-5 on the clusters. I uses [powerline](http://github.com/powerline/powerline)
+Almost everyone has his/her own way of configuring the working environment. I am not an exception. However, this is a painful task which requires a lot of search and research. You don't simply download some scripts and then get it done. In my case, I have to deal with 2 laptops, 1 workstation and several cluster systems. I use http://www.vim.org[vim] a lot and watching the progress of http://atom.io[Atom] editor. I use python regularly and programming mainly in C++. I install the newest
+http://www.fedoraproject.org[Fedora] on my laptop and they install old RHEL 5 on the clusters. I uses http://github.com/powerline/powerline[powerline]
 to make the commandline nicer. All the above pieces need configuration.
 
-This is how I come to write on this problem. I am trying to document what
-problems I have, what is my decision and solution. More importantly, this is
-an evolving project. New content comes and goes. Old configurations get
-updated over time. I want to make it an up-to-date documentation of my
-experiences of work space making and want to make useful to anyone interested.
+This is how I come to write on this problem. I am trying to document what problems I have, what is my decision and solution. More importantly, this is an evolving project. New content comes and goes. Old configurations get updated over time. I want to make it an up-to-date documentation of my experiences of work space making and want to make useful to anyone interested.
