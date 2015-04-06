@@ -1,8 +1,8 @@
-# Editors
+= Editors
 
 The first and foremost ingredient of any working environment is editors. Here by editors I means tools to edit files. People have different preferences and different groups of preferences often argue with their choices. Some people prefer IDEs, while other people likes text editors. Some people are GUI oriented [This has nothing to do with IDEs, though.]
 
-# My criteria for editors
+== My criteria for editors
 
 For me, editors are simply editors. I use editors to accomplish text editing part of the work. So my criteria for editors comes as follows:
 
@@ -12,7 +12,7 @@ For me, editors are simply editors. I use editors to accomplish text editing par
 
 The above criteria excludes most of the current IDEs. IDEs do some part of programming work efficiently but fail both on availability and extensibility. Among IDEs I tried, I want to discuss Eclipse and QtCreator. 
 
-## About Eclipse
+=== About Eclipse
 
 Eclipse is a comprehensive platform. It's omnipotent. By install the CDT plugin, it can be used as a C/C++ IDE. By installing the Egit plugin, It's integrated with git version control. One can even install plugins to make it manage computing clusters and do parallel computing.
 
@@ -20,17 +20,17 @@ The problem of Eclipse in my case is that It needs GUIs to function. So not aval
 
 So, although Eclipse is a nice platform, I pass over it.
 
-## About QtCreator
+=== About QtCreator
 
 QtCreator is a nimble IDE. It's mainly focused on C/C++ projects and is fast compared to Eclipse. It does not use JAVA but compiled directly to machine code. It has modern IDE capabilities such as syntax highlighting, semantic completion, source code navigation and refactoring. It's fully functional.
 
 The problem of QtCreator is that it's not extensible. Although it has some kind of plugin system, it has a much smaller user community as of Eclipse. You can not edit fortran, markdown, json files efficiently with it. So I passed it over. However, I will use it when contributing to Qt based projects.
 
-## Comments on IDEs
+=== Comments on IDEs
 
-I do not choose IDE as a major component of my working environment. But I use IDEs to accomplish certain development tasks. This may seem paradoxical but is justified. I make my choice on a practical manner. Some tasks are better handled by IDEs, for example, GUI applications in QT, debugging QT applications, etc. By I **do not** try to expert on that. I merely use the default configuration, the default plugin set. The IDE itself is efficient enough on the task it focused on, So I don't take the trouble to make it more efficient.
+I do not choose IDE as a major component of my working environment. But I use IDEs to accomplish certain development tasks. This may seem paradoxical but is justified. I make my choice on a practical manner. Some tasks are better handled by IDEs, for example, GUI applications in QT, debugging QT applications, etc. By I *do not* try to expert on that. I merely use the default configuration, the default plugin set. The IDE itself is efficient enough on the task it focused on, So I don't take the trouble to make it more efficient.
 
-# My choice of Editors
+== My choice of Editors
 
 I choose vim as my major editor and considering use Atom for a modern GUI-based editor. 
 
