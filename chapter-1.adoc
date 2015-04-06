@@ -32,7 +32,11 @@ I do not choose IDE as a major component of my working environment. But I use ID
 
 == My choice of Editors
 
-I choose vim as my major editor and considering use Atom for a modern GUI-based editor. 
+I choose vim as my major editor and considering use Atom for a modern GUI-based editor. They satisfy the above criteria of editors.
+
+Questions here may be the vim-emacs editor war. I used to be an Emacs user and use emacs daily for coding and my Ph.D thesis. It suits my needs well. Emacs is an advanced editor which is even refered to as _An operation system faked as an editor_. This is true in some sense. Emacs focus on fast editing as well as extensibility. I stick to emacs for quite a long time until I encountered the cluster environment. The cluster is shipped with a low version emacs (no emacs daemon support), it's not easy to install a new one. The real problem is that advanced features of emacs rely on modern versions of emacs. This requires a lot of efforts. Most of the times, I simply use editors as editors. vim is avaliable almost everywhere and it's fast. It has built in support for fast editing and it loads fast. So I switched back to vim. The decision brings me speed of editing as well as new power of vim. vim is extremely extensible and can do a lot if shipped with plugins. The nice part is that there are a lot of plugin managers for vim to make it easy and trivial to install.
+
+I also look into Atom. At the beginning, I want to find a more modern editor, which supports fast GUI based editing as vim does for TUI based editing. Sublime Text comes into my eye. I have to say sublime text impressed me significantly. It focused on fast editing, extensible and fast to load. It provides a new style of GUI editing by making good use of GUI to display more information and be focused, such as minimap, fuzzy finder. It lets me know the first time that GUI-based editors can be versitile and swift. However, sublime text is neither opensource nor freeware. It evolves slowly (sublime text 3.0 is still in beta at the time of writing). Then GitHub releases atom, which resembles the sublime way of editing and is opensource. The Atom community grows fast after the first release of the editor. It's extremely extensible and usable. I did not switch to Atom, though. Atom takes another approach to editing, it's pretty and nifty. But I still need the console to edit a lot of files on clusters. So I am not going to shift. Instead, I try Atom occasionally, and may use it regularly when some plugins mature.
 
 
 
