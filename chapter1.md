@@ -1,3 +1,3 @@
-# First Chapter
+# Editors
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+The first and foremost ingredient of any working environment is editors. Here by editors I means tools to editing files. People have different preferences and  
