@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# How Do I Create My Working Environment
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Almost everyone has his/her own way of configuring the working environment. I am not an exception. However, this is a painful task which requires a lot of search and research. You don't simply download some scripts and then get it done. In my case, I have to deal with 2 laptops, 1 workstation and several cluster systems.
