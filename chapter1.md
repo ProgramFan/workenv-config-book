@@ -22,7 +22,13 @@ So, although Eclipse is a nice platform, I pass over it.
 
 ## About QtCreator
 
-QtCreator is a nimble IDE. It's mainly focused on C/C++ projects and is fast compared to Eclipse. It does not use JAVA but compiled directly to machine code. 
+QtCreator is a nimble IDE. It's mainly focused on C/C++ projects and is fast compared to Eclipse. It does not use JAVA but compiled directly to machine code. It has modern IDE capabilities such as syntax highlighting, semantic completion, source code navigation and refactoring. It's fully functional.
+
+The problem of QtCreator is that it's not extensible. Although it has some kind of plugin system, it has a much smaller user community as of Eclipse. You can not edit fortran, markdown, json files efficiently with it. So I passed it over. However, I will use it when contributing to Qt based projects.
+
+## Comments on IDEs
+
+I do not choose IDE as a major component of my working environment. But I use IDEs to accomplish certain development tasks. This may seem paradoxical but is justified. I make my choice on a practical manner. Some tasks are better handled by IDEs, for example, GUI applications in QT, debugging QT applications, etc. By I **do not** try to expert on that. I merely use the default configuration, the default plugin set. The IDE itself is efficient enough on the task it focused on, So I don't take the troule to make it more efficient. 
 
 
 
